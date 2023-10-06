@@ -1,0 +1,35 @@
+.jumbotron1{
+    background-color: #3378DF;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.btn{
+    background-color: #60B6E7;
+    color: #ffff
+}
+.isijumbo{
+    background: url(../img/gambar-home.png.webp);
+    background-repeat: no-repeat;
+    background-position: 100%;
+}
+.apacfd{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 3rem;
+}
+.kenapacfd{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+}
+.ourservice{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-color: #3378DF;
+}
+.text-biru{
+    color: #3378DF;
+}
