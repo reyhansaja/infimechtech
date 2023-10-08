@@ -33,3 +33,8 @@
 .text-biru{
     color: #3378DF;
 }
+.background{
+    background: url("../img/satuempat.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
