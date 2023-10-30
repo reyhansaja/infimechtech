@@ -1,5 +1,11 @@
 .atas{
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    padding-left: 1rem;
+}
+.output{
     padding: 2rem;
+    background-color: #3378DF;
 }
 .text-biru{
     color: #3378DF;
