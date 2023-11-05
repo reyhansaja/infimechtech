@@ -1,0 +1,31 @@
+.atas{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-color: #D9D9D9;
+}
+.isi{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.text-biru{
+    color: #3378DF;
+}
+.bg-biru{
+    background-color: #3378DF;
+}
+.card-tumpul{
+    border-radius: 1rem;
+}
+.bg-abu{
+    background-color: #D9D9D9;
+}
+.kotak{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 1rem;
+    padding-right: 2rem;
+}
