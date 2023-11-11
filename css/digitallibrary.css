@@ -1,0 +1,25 @@
+.atas{
+    padding-top: 15rem;
+    padding-bottom: 10rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    background: url(../img/line.jpg);
+    background-repeat: no-repeat;
+    background-position: cover;
+}
+.text-biru{
+    color: #3378DF;
+}
+.isi-biru{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    background-color: #3378DF;
+}
+.isi{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    padding-left: 4rem;
+    padding-right: 4rem;  
+}
