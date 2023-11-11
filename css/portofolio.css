@@ -1,0 +1,19 @@
+.atas{
+    padding-top: 10rem;
+    padding-bottom: 12rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    background-color: #3378DF;
+}
+.isi{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+.text-biru{
+    color: #3378DF;
+}
+.card-tumpul{
+    border-radius: 1rem;
+}
